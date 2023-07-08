@@ -17,7 +17,7 @@
     "bootstrap-vue": "^2.21.2",
     "core-js": "^3.30.2",
     "d3": "3.5.17",
-    "netlify-cli": "^15.6.0",
+    "netlify-cli": "^15.8.1",
     "nuxt": "^2.15.7"
   },
   "devDependencies": {
