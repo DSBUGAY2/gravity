@@ -17,8 +17,8 @@
     "bootstrap-vue": "^2.21.2",
     "core-js": "^3.30.2",
     "d3": "3.5.17",
-    "netlify-cli": "^15.6.0",
-    "nuxt": "^3.0.0"
+    "netlify-cli": "^17.23.3",
+    "nuxt": "^3.4.2"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.14.7",
